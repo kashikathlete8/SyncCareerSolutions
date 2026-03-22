@@ -1,1 +1,1 @@
-# Sync-Career-Solutions
+# SyncCareerSolutions
